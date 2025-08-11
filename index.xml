@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>A New Name</title>
-    <link>https://atomicnumber37.github.io/</link>
-    <description>Recent content on A New Name</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Aug 2025 21:15:43 +0900</lastBuildDate>
-    <atom:link href="https://atomicnumber37.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://atomicnumber37.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 11 Aug 2025 21:15:43 +0900</pubDate>
-      <guid>https://atomicnumber37.github.io/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;theme&#34;&gt;theme&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sub-title&#34;&gt;sub title&lt;/h2&gt;&#xA;&lt;p&gt;text&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>https://atomicnumber37.github.io/</link>
+        <description>This is 111111111</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 21:38:44 &#43;0900</lastBuildDate>
+            <atom:link href="https://atomicnumber37.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>My First Post</title>
+    <link>https://atomicnumber37.github.io/posts/my-first-post/</link>
+    <pubDate>Mon, 11 Aug 2025 21:15:43 &#43;0900</pubDate>
+    <author>1123</author>
+    <guid>https://atomicnumber37.github.io/posts/my-first-post/</guid>
+    <description><![CDATA[<h1 id="theme">theme</h1>
+<h2 id="sub-title">sub title</h2>
+<p>text</p>]]></description>
+</item>
+</channel>
 </rss>
